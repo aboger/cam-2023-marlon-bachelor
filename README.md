@@ -9,7 +9,7 @@ _Gruppen:_
 
 Ich habe alle Teilnehmer je nach Wohnort in Gruppen aufgeteilt. Jede Gruppe hat einen Leiter. Zusätzlich zu unserer bisherigen WhatsApp-Gruppe erstelle ich für die Gruppenplanung je eine weitere WhatsApp-Gruppe. **Reagiert dort schnell auf Nachrichten**, dass die Planung klappt.
 
-Falls jemand die Gruppe wechseln möchte, (bspw Marc und Konrad von Gruppe Pforzheim nach Gruppe Nürnberg), meldet euch bitte so schnell wie möglich.
+Falls jemand die Gruppe wechseln möchte (bspw Konrad von Gruppe Pforzheim nach Gruppe Nürnberg), meldet euch bitte so schnell wie möglich.
 
 _Individuelle Planung:_
 
@@ -30,21 +30,24 @@ _Marlon:_
 
 Marlon weiß nur, wann der JGA stattfindet. Er hat bereits Urlaub genommen. Er weiß aber nicht _was_ stattfindet. Und das soll bitte auch so lange wie möglich bleiben. Lasst uns versuchen ihn zu überraschen. Passt bitte auch auf, mit wem ihr diese Webseite teilt. Sie ist öffentlich zugänglich.
 
+Es ist üblich, dass der Jungeselle keine Kosten selbst übernimmt. Ich werde euch beizeiten um einen Beitrag zu Marlon's Reisekosten bitten.
+Um den genauen Beitrag zu kennen, müssen wir erstmal buchen, es dauert also noch ein wenig. 
+
+Allerdings sind so hohe Kosten bei einem JGA unüblich, und es war ja meine Idee. Falls ihr knapp bei Kasse seid, ist das kein Problem, einfach Bescheid sagen, dann übernehme ich das entweder teilweise oder komplett.
 
 ## Flüge
 
 Alle Flüge werden von Ryanair angeboten. Daher sind es günstige Flüge. Ein one-way Ticket liegt gerade zwischen 20€ und 60€.
 
 Hinflug ist immer am Samstag, 20.05.2023.
-Rückflug immer am Dientag, 23.05.2023.
+Rückflug immer am Dienstag, 23.05.2023.
 
-Nur Handgepäck mit einer Zahnbürste und ein paar Wechselklamotten müsste für 3 Tage eigentlich reichen. Aber bitte aufpassen: Keine Flüssigkeiten im Handgepäck. \
-Da wir alle EU-Bürger sind, reicht ein Nationalausweis aus. Kein Reisepass nötig.
+Nur Handgepäck mit einer Zahnbürste und ein paar Wechselklamotten müsste für 3 Tage eigentlich reichen. Aber bitte aufpassen: Keine Flüssigkeiten im Handgepäck. Da wir alle EU-Bürger sind, reicht ein Nationalausweis aus. Kein Reisepass nötig.
 
 **Last uns bitte zeitnah buchen, solange es noch günstige Varianten gibt. Die Preise sind schon gestiegen.**
 
-| Flughafen   | Hinflug       | Rückflug                                                                                                                                                                                                                                                                                                                                                                     |
-|-------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Flughafen   | Hinflug                                                                                                                                                                                                                                                                                                                                                                      | Rückflug                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bremen      | [16:40](https://www.ryanair.com/de/de/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2023-05-20&dateIn=&isConnectedFlight=false&isReturn=false&discount=0&promoCode=&originIata=BRE&destinationIata=VNO&tpAdults=1&tpTeens=0&tpChildren=0&tpInfants=0&tpStartDate=2023-05-20&tpEndDate=&tpDiscount=0&tpPromoCode=&tpOriginIata=BRE&tpDestinationIata=VNO) | [18:15](https://www.ryanair.com/de/de/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2023-05-23&dateIn=&isConnectedFlight=false&discount=0&isReturn=false&promoCode=&originIata=VNO&destinationIata=BRE&tpAdults=1&tpTeens=0&tpChildren=0&tpInfants=0&tpStartDate=2023-05-23&tpEndDate=&tpDiscount=0&tpPromoCode=&tpOriginIata=VNO&tpDestinationIata=BRE) | 
 | Nürnberg    | [19:25](https://www.ryanair.com/de/de/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2023-05-20&dateIn=&isConnectedFlight=false&discount=0&isReturn=false&promoCode=&originIata=NUE&destinationIata=VNO&tpAdults=1&tpTeens=0&tpChildren=0&tpInfants=0&tpStartDate=2023-05-20&tpEndDate=&tpDiscount=0&tpPromoCode=&tpOriginIata=NUE&tpDestinationIata=VNO) | [09:10](https://www.ryanair.com/de/de/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2023-05-23&dateIn=&isConnectedFlight=false&discount=0&isReturn=false&promoCode=&originIata=VNO&destinationIata=NUE&tpAdults=1&tpTeens=0&tpChildren=0&tpInfants=0&tpStartDate=2023-05-23&tpEndDate=&tpDiscount=0&tpPromoCode=&tpOriginIata=VNO&tpDestinationIata=NUE) | 
 | Berlin      | [11:50](https://www.ryanair.com/de/de/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2023-05-20&dateIn=&isConnectedFlight=false&discount=0&isReturn=false&promoCode=&originIata=BER&destinationIata=VNO&tpAdults=1&tpTeens=0&tpChildren=0&tpInfants=0&tpStartDate=2023-05-20&tpEndDate=&tpDiscount=0&tpPromoCode=&tpOriginIata=BER&tpDestinationIata=VNO) | [05:50](https://www.ryanair.com/de/de/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2023-05-23&dateIn=&isConnectedFlight=false&discount=0&isReturn=false&promoCode=&originIata=VNO&destinationIata=BER&tpAdults=1&tpTeens=0&tpChildren=0&tpInfants=0&tpStartDate=2023-05-23&tpEndDate=&tpDiscount=0&tpPromoCode=&tpOriginIata=VNO&tpDestinationIata=BER) | 
@@ -66,11 +69,10 @@ Da wir alle EU-Bürger sind, reicht ein Nationalausweis aus. Kein Reisepass nöt
 
 ![Private Rooms](private-rooms.png)
 
-- Marlon kommt in ein 2 Bett-Zimmer und jemand kann dort mit dazu (Atze?).
-
+- Marlon kommt in ein 2 Bett-Zimmer und jemand kann dort mit dazu (Marko, Finn, Atze, ich?).
 - Olga und Schneggi könnten zu zweit in ein privates Zimmer.
 - Sparfüchse können im 6 Bed Dorm unterkommen. Dieses Zimmer habe ich bereits komplett gebucht, dass wir es für uns alleine haben. Falls ihr ein Bett darin wollt, meldet euch bei mir.
-- Gruppe Augsburg könnte in ein 3 Bed Zimmer, falls Alex Emde im Hostel schläft.
+- Gruppe Augsburg könnte in ein 3 Bed Zimmer. Entweder mit Alex Emde, oder mit mir, falls Alex Emde auswärts schläft.
 - Mir ist egal wo und wie ich schlafe. Falls in einem Zimmer eine Person fehlt, meldet euch :-)
 - Gruppe SH könnte in ein 2 Bett Zimmer. Falls Finn ein eigenes Zimmer haben möchte, kann Marco sich bei mir melden. 
 
@@ -87,7 +89,7 @@ Alex fährt eventuell mit dem Auto nach Hamburg und von dort aus direkt wieder h
 
 _Timeline:_
 - 18.05: Hinfahrt in Alex' Auto, Check-in Hamburg
-- 20.05: Weiter nach Bremen, Hinflug, Check-in Vilnius. Alex fährt von Hamburg direkt heim
+- 20.05: Weiter nach Bremen, Hinflug, Check-in Vilnius. Alex und Marc fahren von Hamburg direkt heim
 - 23.05: Rückflug nach Nürnberg, Zug heim
 
 ### Gruppe Augsburg
@@ -116,7 +118,7 @@ _Timeline:_
 
 - Marco (Leiter)
 - Marlon 
-- Finn (ggfs. individuell)
+- Finn (individuell)
 
 - 18.05: Hinfahrt mit ICE, Check-in Hamburg
 - 20.05: Weiter nach Bremen, Hinflug, Check-in Vilnius
@@ -136,14 +138,20 @@ Billund ist mit ca. 20€ pro Flug günstig, aber den Hinflug zu erreichen kann 
 - Atze (Leiter)
 
 _Timeline:_
- 
+
+- 18.05: Zug nach Hamburg, Check-in Hamburg
+- 20.05: Zug nach Berlin
+
+Alternative 1:
+
 - 18.05: Zug nach Hamburg, Check-in Hamburg
 - 20.05: Weiter nach Bremen, Hinflug, Check-in Vilnius
 - 23.05: Rückflug nach Berlin
 
-Alternative:
+Alternative 2:
 
 - 20.05: Abflug aus Berlin, Check-in Vilnius
 - 23.05: Rückflug nach Berlin
+
 
 
